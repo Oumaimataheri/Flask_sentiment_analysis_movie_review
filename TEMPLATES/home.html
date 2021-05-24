@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Ml Flask</title>
+ <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename=
+ 'css/style.css')}}">
+ <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename=
+ 'css/bootstrap.css')}}">
+</head>
+<body>
+  <div align="center" class="bg-info">
+ <h1><span style="color:pink" >Sentiment Analysis for movie reviews</span></h1></div>
+ <div class="big" align="center">
+  <form action="{{url_for('predict')}}" method="POST">
+   <h3><span style="color:purple" >Enter Your Review Here</span> </h3>
+ <textarea name="comment" rows="4" cols="50"></textarea>
+   <br>
+   <input type="submit" name="" value="Predict" class="btn btn-info">
+  </form>
+ </div>
+ <div style="text-align: center">
+   <img src="https://www.sestek.com/wp-content/uploads/2018/05/sentiment-analysis-demo-300x230.png"/>
+ </div>
+</body>
+</html>
