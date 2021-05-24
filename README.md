@@ -18,6 +18,24 @@ Word embeddings are words mapped to real number vectors such that it can capture
 - CBOW
 - SKIP GRAM 
 
+In this project , i'm using SKIP GRAM ;  it predicts embeddings for the surrounding context words in the specific window given a current word.
+<p align="center">
+  <img width="200" height="150" src="https://miro.medium.com/max/1959/1*MqoUdbWmPM8fQq8jzha-eg.png">
+</p>
 
+
+## Classification model : 
+Once the Word2Vec vectors are ready for training , DecisionTreeClassifier is used here to do the sentiment classification in other words to predict the target labels. Decision tree classifier is Supervised Machine learning algorithm for classification.
+
+## Deploy our machine learning model using FLASK : 
+You do not have to be a pro in HTML to build the front end of your application! First of all i create the frontend of my application then i Connect the webpage with the Model using FLASK .
+## Requirements : 
+There are some library requirements for the project and some which are specific to individual methods. The requirements are as follows:
+- pandas
+- nltk
+- gensim
+- sklearn
+- keras
+- flask
 
 
