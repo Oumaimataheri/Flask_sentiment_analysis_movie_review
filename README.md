@@ -12,10 +12,11 @@ In this repository , i worked on a movie reviews dataset taken from : https://gi
 
 The main task is to label phrases on a scale of two values: negative or positive. There are many obstacles such as sentence negation, sarcasm, language ambiguity, and many others make the sentiment prediction more difficult. In general, this particular Sentiment Analysis is a binary classification task to be faced. This Sentiment Classification Model is based on Word2Vec Vectors. 
 
+## Understanding Word2Vec Model:
+Word embeddings are words mapped to real number vectors such that it can capture the semantic meaning of words. The methods tried in my previous posts of BOW and TFIDF do not capture the meaning between the words, they consider the words seperately as features. Word embeddings use some models to map a word into vectors such that similar words will be closer to each other. As shown in the below figure, for example some of the positive words which are adjectives will be closer to each other and vice versa for negative adjectives. It captures semantical and syntactical information of words. To train this model it takes into consideration the words surrounding that word of particular window size. There are different ways of deriving the word embedding vectors. Word2vec is one such method where neural embeddings model is used to learn that. It uses following two architectures to achieve this.
 
-
-
-## WORD2VEC 
+- CBOW
+- SKIP GRAM 
 
 
 
