@@ -27,7 +27,7 @@ In this project , i'm using SKIP GRAM ;  it predicts embeddings for the surround
 ## Classification model : 
 Once the Word2Vec vectors are ready for training , DecisionTreeClassifier is used here to do the sentiment classification in other words to predict the target labels. Decision tree classifier is Supervised Machine learning algorithm for classification.
 
-## Deploy our machine learning model using FLASK : 
+## Deployment of the ML model using FLASK : 
 You do not have to be a pro in HTML to build the front end of your application! First of all i create the frontend of my application then i Connect the webpage with the Model using FLASK .
 ## Requirements : 
 There are some library requirements for the project and some which are specific to individual methods. The requirements are as follows:
