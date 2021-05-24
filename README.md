@@ -5,7 +5,7 @@ The project domains background around the area of Sentiment analysis or Opinion 
 In this repository , i worked on a movie reviews dataset taken from : https://github.com/laxmimerit/All-CSV-ML-Data-Files-Download/blob/master/moviereviews.tsv
 
 <p align="center">
-  <img width="460" height="300" src="https://www.sestek.com/wp-content/uploads/2018/05/sentiment-analysis-demo-300x230.png">
+  <img width="200" height="150" src="https://www.sestek.com/wp-content/uploads/2018/05/sentiment-analysis-demo-300x230.png">
 </p>
 
 ## TASK : 
