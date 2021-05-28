@@ -37,9 +37,12 @@ Once the Word2Vec vectors are ready for training , DecisionTreeClassifier is use
 ## Deployment of  the ML using FLASK : 
 You do not have to be a pro in HTML to build the front end of your application! First of all i create the frontend of my application then i Connect the webpage with the Model using FLASK .
 
-## Result: 
+## Result of the application: 
 
 <img width="350" alt="screen1" src="https://user-images.githubusercontent.com/75047820/119992860-41509b00-bfcb-11eb-8183-3b0ec873edd0.png">
+
+<img width="307" alt="screen2" src="https://user-images.githubusercontent.com/75047820/119993143-8aa0ea80-bfcb-11eb-9339-8d5e013327f7.png">
+
 
 ## Requirements : 
 There are some library requirements for the project and some which are specific to individual methods. The requirements are as follows:
