@@ -7,7 +7,7 @@ The project domains background around the area of Sentiment analysis or Opinion 
 In this repository , i worked on a movie reviews dataset taken from : https://github.com/laxmimerit/All-CSV-ML-Data-Files-Download/blob/master/moviereviews.tsv
 
 <p align="center">
-  <img width="400" height="150" src="https://miro.medium.com/max/3260/1*8XIjunF2z6dmsVlkEuOUaw.png">
+  <img width="400" height="200" src="https://miro.medium.com/max/3260/1*8XIjunF2z6dmsVlkEuOUaw.png">
 </p>
 
 
