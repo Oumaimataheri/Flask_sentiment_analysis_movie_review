@@ -1,3 +1,4 @@
+<img width="495" alt="screen1" src="https://user-images.githubusercontent.com/75047820/119992860-41509b00-bfcb-11eb-8183-3b0ec873edd0.png">
 # Flask_sentiment_analysis_movie_review:
 
 -----------------
