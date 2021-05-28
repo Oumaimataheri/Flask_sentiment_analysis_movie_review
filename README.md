@@ -26,7 +26,7 @@ Word embeddings are words mapped to real number vectors such that it can capture
 
 In this project , i'm using SKIP GRAM ;  it predicts embeddings for the surrounding context words in the specific window given a current word.
 <p align="center">
-  <img width="300" height="200" src="https://miro.medium.com/max/1959/1*MqoUdbWmPM8fQq8jzha-eg.png">
+  <img width="500" height="300" src="https://miro.medium.com/max/1959/1*MqoUdbWmPM8fQq8jzha-eg.png">
 </p>
 
 
