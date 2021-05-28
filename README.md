@@ -7,7 +7,12 @@ In this repository , i worked on a movie reviews dataset taken from : https://gi
 <p align="center">
   <img width="200" height="150" src="https://www.sestek.com/wp-content/uploads/2018/05/sentiment-analysis-demo-300x230.png">
 </p>
+
+
 -----------------
+
+
+
 ## **TASK** : 
 
 The main task is to label phrases on a scale of two values: negative or positive. There are many obstacles such as sentence negation, sarcasm, language ambiguity, and many others make the sentiment prediction more difficult. In general, this particular Sentiment Analysis is a binary classification task to be faced. This Sentiment Classification Model is based on Word2Vec Vectors. 
