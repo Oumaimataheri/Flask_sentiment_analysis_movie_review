@@ -39,7 +39,7 @@ You do not have to be a pro in HTML to build the front end of your application! 
 
 ## Result: 
 
-<img width="300" alt="screen1" src="https://user-images.githubusercontent.com/75047820/119992860-41509b00-bfcb-11eb-8183-3b0ec873edd0.png">
+<img width="350" alt="screen1" src="https://user-images.githubusercontent.com/75047820/119992860-41509b00-bfcb-11eb-8183-3b0ec873edd0.png">
 
 ## Requirements : 
 There are some library requirements for the project and some which are specific to individual methods. The requirements are as follows:
