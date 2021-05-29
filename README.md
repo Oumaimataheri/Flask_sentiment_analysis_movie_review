@@ -1,4 +1,4 @@
-# Flask_sentiment_analysis_movie_review:
+# Flask_sentiment_analysis_movie_reviews:
 
 -----------------
 
